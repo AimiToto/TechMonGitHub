@@ -87,6 +87,7 @@
 		42B9270E282DE8D10012DF08 /* SE_charge.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SE_charge.mp3; sourceTree = "<group>"; };
 		42B9270F282DE8D10012DF08 /* lobby.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = lobby.mp3; sourceTree = "<group>"; };
 		42B92711282DE8D10012DF08 /* misaki_gothic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = misaki_gothic.ttf; sourceTree = "<group>"; };
+		42B92723282E18200012DF08 /* DragonQuestFC.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = DragonQuestFC.ttf; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +220,7 @@
 		42B92710282DE8D10012DF08 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
+				42B92723282E18200012DF08 /* DragonQuestFC.ttf */,
 				42B92711282DE8D10012DF08 /* misaki_gothic.ttf */,
 			);
 			path = Fonts;
